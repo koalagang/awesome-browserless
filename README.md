@@ -9,7 +9,7 @@ Note that most of these applications are commandline-based but I have tried to i
 * Basic searches: [Tuxi](https://github.com/Bugswriter/tuxi) ✅
 * Weather forecast: [wttr.in](https://github.com/chubin/wttr.in) ✅
 * Cryptocurrency rates: [rate.sx](https://github.com/chubin/rate.) ✅
-* YouTube: [youtube-dl](https://github.com/ytdl-org/youtube-dl) ✅_or_ [ytmdl](htt✅ps://github.com/deepjyoti30/ytmdl) ✅ _or_ [youtube-viewer ](https://github.com/trizen/youtube-viewer)_or_ [pipe-viewer](https://github.com/trizen/pipe-viewer) ✅ _or_ [straw-viewer](https://github.com/trizen/straw-viewer) ✅_or_ [FreeTube](https://github.com/FreeTubeApp/FreeTube) ✅ _or_ [NewPipe](https://github.com/TeamNewPipe/NewPipe) ✅
+* YouTube: [youtube-dl](https://github.com/ytdl-org/youtube-dl) ✅_or_ [ytmdl](htt✅ps://github.com/deepjyoti30/ytmdl) ✅ _or_ [youtube-viewer ](https://github.com/trizen/youtube-viewer)_or_ [pipe-viewer](https://github.com/trizen/pipe-viewer) ✅ _or_ [straw-viewer](https://github.com/trizen/straw-viewer) ✅ _or_ [FreeTube](https://github.com/FreeTubeApp/FreeTube) ✅ _or_ [NewPipe](https://github.com/TeamNewPipe/NewPipe) ✅
 * parrot meme: [parrot.live](https://github.com/hugomd/parrot.live) ✅
 * Emailing: [NeoMutt](https://github.com/neomutt/neomutt) _or_ [Thunderbird](https://www.thunderbird.net/en-GB/) _or_ [Mailspring](https://github.com/Foundry376/Mailspring) - TIP: use [mutt-wizard](https://github.com/LukeSmithxyz/mutt-wizar)to easily configure NeoMutt
 * COVID-19 stats: [Coronavirus Tracker CLI](https://github.com/sagarkarira/coronavirus-tracker-cli)
