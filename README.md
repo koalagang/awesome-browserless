@@ -1,8 +1,8 @@
 # Web browsers suck
-The modern web is slow and bloated. It is coated in malicious trackers and adverts. There are a few ways to go about solving this:
-1. Use an alternative web protocol such as gopher or gemini
-2. Use a text-based browser such as lynx or w3m
-3. Use superior software where possible (see below)
+The modern web is slow and bloated. The traditional method of browsing with a graphical web browser is also. It is coated in malicious trackers and adverts. There are a few ways to go about solving this:
+1. Use an alternative web protocol such as gopher or gemini - these will likely never become mainstream
+2. Use a text-based browser such as lynx or w3m - plenty of websites do not function well without JavaScript
+3. Use superior software where possible (see below) - can be tinkered with an designed for its specific purpose
 
 # Superior software
 Note that most of these applications are commandline-based but I have tried to include some GTK and Qt apps as well. I have tested anything with a tick ✅ next to it.
