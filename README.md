@@ -10,7 +10,7 @@ Note that most of these applications are commandline-based but I have tried to i
 * Weather forecast: [wttr.in](https://github.com/chubin/wttr.in) ✅
 * Cryptocurrency rates: [rate.sx](https://github.com/chubin/rate.) ✅
 * YouTube: [youtube-dl](https://github.com/ytdl-org/youtube-dl) ✅ _or_ [ytmdl](htt✅ps://github.com/deepjyoti30/ytmdl) ✅ _or_ [youtube-viewer ](https://github.com/trizen/youtube-viewer)_or_ [pipe-viewer](https://github.com/trizen/pipe-viewer) ✅ _or_ [straw-viewer](https://github.com/trizen/straw-viewer) ✅ _or_ [FreeTube](https://github.com/FreeTubeApp/FreeTube) ✅ _or_ [NewPipe](https://github.com/TeamNewPipe/NewPipe) ✅
-* parrot meme: [parrot.live](https://github.com/hugomd/parrot.live) ✅
+* Parrot meme: [parrot.live](https://github.com/hugomd/parrot.live) ✅
 * Emailing: [NeoMutt](https://github.com/neomutt/neomutt) _or_ [Thunderbird](https://www.thunderbird.net/en-GB/) _or_ [Mailspring](https://github.com/Foundry376/Mailspring) - _TIP: use_ [mutt-wizard](https://github.com/LukeSmithxyz/mutt-wizar) _to easily configure NeoMutt_
 * COVID-19 stats: [Coronavirus Tracker CLI](https://github.com/sagarkarira/coronavirus-tracker-cli)
 * Calendar: [Calcurse](https://github.com/lfos/calcurse) _✅ or_ [Gnome Calendar](https://wiki.gnome.org/Apps/Calendar)
@@ -24,11 +24,11 @@ This is it for now but I will be adding more...
 Use one of the following:
 * [Brave](https://brave.com/) (a private Chromium-based browser)
 * [LibreWolf](https://librewolf-community.gitlab.io/) (Firefox but entirely FOSS and with better defaults)
-* [Qutebrowser](https://qutebrowser.org/) (a lightweight browser keyboard-driven browser)
+* [Qutebrowser](https://qutebrowser.org/) (a lightweight keyboard-driven browser)
 * [Lynx](https://lynx.browser.org/) (the oldest actively maintained text-based browser)
 * [w3m](http://w3m.sourceforge.net/) (a text-based browser which supports image viewing)
 
-I would also suggest that you use [Surfraw](https://gitlab.com/surfraw/Surfraw/) and then aliasing your preferred search engine (e.g. alias ddg='sr duckduckgo') to make using text-based browsers more convienient and also [block trackers using your localhost file](https://www.youtube.com/watch?v=VPfpCVW7ZvM) or even [network level](https://pi-hole.net/).
+I would also suggest that you use [Surfraw](https://gitlab.com/surfraw/Surfraw/) and then aliasing your preferred search engine (e.g. alias ddg='sr duckduckgo') to make using text-based browsers more convienient and also [block trackers using your localhost file](https://www.youtube.com/watch?v=VPfpCVW7ZvM) or even [network level blocking](https://pi-hole.net/).
 
 # Community-based?
 Currently I am the only one working on this list but feel free to make a pull request.
