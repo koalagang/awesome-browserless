@@ -1,5 +1,5 @@
 # Web browsers suck
-The modern web is slow and bloated. The traditional method of browsing with a graphical web browser is also. It is coated in malicious trackers and adverts. There are a few ways to go about solving this:
+The modern web is slow and bloated. The traditional method of browsing with a graphical web browser is also clunky. It is coated in malicious trackers and adverts. There are a few ways to go about solving this:
 1. Use an alternative web protocol such as gopher or gemini - _these will likely never become mainstream_
 2. Use a text-based browser such as lynx or w3m - _plenty of websites do not function well without JavaScript_
 3. Use superior software where possible (see below) - _can be tinkered with an designed for its specific purpose_
@@ -29,3 +29,6 @@ Use one of the following:
 * [w3m](http://w3m.sourceforge.net/) (a text-based browser which supports image viewing)
 
 I would also suggest that you use [Surfraw](https://gitlab.com/surfraw/Surfraw/) and then aliasing your preferred search engine (e.g. alias ddg='sr duckduckgo') to make using text-based browsers more convienient and also [block trackers using your localhost file](https://www.youtube.com/watch?v=VPfpCVW7ZvM) or even [network level](https://pi-hole.net/).
+
+# Community-based?
+Currently I am the only one working on this list but feel free to make a pull request.
