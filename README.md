@@ -17,20 +17,20 @@ NOTE: most of these tools are commandline-based because I prefer using the termi
 * Google Translate: [Translate Shell](https://github.com/soimort/translate-shell)- _TIP_: you can also use Translate Shell as a dictionary if you add the '-d' flag, e.g. "trans -d stupendous"
 * Instagram: [InstaLooter](https://github.com/althonos/InstaLooter)
 * Reddit: [redyt](https://github.com/Bugswriter/redyt) _or_ [Reddsaver](https://github.com/manojkarthick/reddsaver)
-* Twitter: [Rainbow Stream][https://github.com/orakaro/rainbowstream]
-* Git: [GitHub Cli](https://github.com/cli/cli) _or_ [Tig](https://github.com/jonas/tig) _or_ [GitHub-Tui][https://github.com/skanehira/github-tui] _or_ [Lazygit][https://github.com/jesseduffield/lazygit]
-* [RSS][https://en.m.wikipedia.org/wiki/RSS]: [Newsboat](https://github.com/newsboat/newsboat) (TUI) _or_ [Sfeed][https://codemadness.org/sfeed-simple-feed-parser.html] (TUI) _or_ [Neix][https://github.com/tomschwarz/neix] (TUI)  [Akregator](https://userbase.kde.org/Akregator(Qt) (Qt) _or_ [Newsflash][https://gitlab.com/news-flash/news_flash_gtk] (Gtk) - _TIP_: RSS feeds are very useful if you like to read blogs or news but can also be used for YouTube channels so you don't have to have a YouTube account to subscribe to YouTubers. You can also add Reddit pages to your RSS feed.
-* Documenation: [Man pages][https://en.wikipedia.org/wiki/Man_page] _or_ run '--help' at the end of a command _or_ [cheat.sh][https://github.com/chubin/cheat.sh] - _TIP_: you can [use a different manpager](https://www.youtube.com/watch?v=ab3rY0X5kD4) if you don't like less
+* Twitter: [Rainbow Stream](https://github.com/orakaro/rainbowstream)
+* Git: [GitHub Cli](https://github.com/cli/cli) _or_ [Tig](https://github.com/jonas/tig) _or_ [GitHub-Tui](https://github.com/skanehira/github-tui) _or_ [Lazygit](https://github.com/jesseduffield/lazygit)
+* [RSS](): [Newsboat](https://github.com/newsboat/newsboat) (TUI) _or_ [Sfeed](https://codemadness.org/sfeed-simple-feed-parser.html) (TUI) _or_ [Neix][https://github.com/tomschwarz/neix] (TUI) _or_ [Akregator](https://userbase.kde.org/Akregator)(Qt) _or_ [Newsflash](https://gitlab.com/news-flash/news_flash_gtk) (Gtk) - _TIP_: RSS feeds are very useful if you like to read blogs or news but can also be used for YouTube channels so you don't have to have a YouTube account to subscribe to YouTubers. You can also add Reddit pages to your RSS feed.
+* Documenation: [Man pages](https://en.wikipedia.org/wiki/Man_page) _or_ run '--help' at the end of a command _or_ - _TIP_: you can [use a different manpager](https://www.youtube.com/watch?v=ab3rY0X5kD4) if you don't like less
 
 # If you must use a browser
 Use one or more of the following:
 * [Brave](https://brave.com/) (a private Chromium-based browser)
 * [LibreWolf](https://librewolf-community.gitlab.io/) (Firefox but entirely FOSS and with better defaults)
 * [Qutebrowser](https://qutebrowser.org/) (a lightweight keyboard-driven browser)
-* [Tor Browser][https://www.torproject.org/] (the most private browser in the world; powerful for countering government censorship)
+* [Tor Browser](https://www.torproject.org/) (the most private browser in the world; powerful for countering government censorship)
 * [Lynx](https://lynx.browser.org/) (the oldest actively maintained text-based browser)
 * [w3m](http://w3m.sourceforge.net/) (a text-based browser which supports image viewing)
-* [Amfora][https://github.com/makeworld-the-better-one/amfora] (a fancy terminal browser for the Gemini protocol)
+* [Amfora](https://github.com/makeworld-the-better-one/amfora) (a fancy terminal browser for the Gemini protocol)
 
 I would also suggest that you use [Surfraw](https://gitlab.com/surfraw/Surfraw/) and then aliasing your preferred search engine (e.g. alias ddg='sr duckduckgo' or alias wp='sr wikipedia') to make using text-based browsers more convienient and also [block trackers using your local host file](https://www.youtube.com/watch?v=VPfpCVW7ZvM) or even [network level blocking](https://pi-hole.net/).
 
