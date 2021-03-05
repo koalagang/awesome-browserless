@@ -9,12 +9,13 @@ NOTE: most of these tools are commandline-based because I prefer using the termi
 * Basic searches: [Tuxi](https://github.com/Bugswriter/tuxi)
 * Weather forecast: [wttr.in](https://github.com/chubin/wttr.in)
 * Cryptocurrency rates: [rate.sx](https://github.com/chubin/rate.sx)
-* YouTube: [youtube-dl](https://github.com/ytdl-org/youtube-dl)  _or_ [ytmdl](https://github.com/deepjyoti30/ytmdl)  _or_ [youtube-viewer](https://github.com/trizen/youtube-viewer) _or_ [pipe-viewer](https://github.com/trizen/pipe-viewer)  _or_ [straw-viewer](https://github.com/trizen/straw-viewer)  _or_ [FreeTube](https://github.com/FreeTubeApp/FreeTube)  _or_ [NewPipe](https://github.com/TeamNewPipe/NewPipe) _or_ [yt](https://github.com/sayan01/scripts/blob/master/yt)
+* YouTube: [youtube-dl](https://github.com/ytdl-org/youtube-dl) _or_ [ytmdl](https://github.com/deepjyoti30/ytmdl)  _or_ [youtube-viewer](https://github.com/trizen/youtube-viewer) _or_ [pipe-viewer](https://github.com/trizen/pipe-viewer) _or_ [straw-viewer](https://github.com/trizen/straw-viewer)  or_ [FreeTube](https://github.com/FreeTubeApp/FreeTube)  _or_ [NewPipe](https://github.com/TeamNewPipe/NewPipe) (Android app) _or_ [yt](https://github.com/sayan01/scripts/blob/master/yt) _or_ [Ytfzf](https://github.com/pystardust/ytfzf) (has thumbnail support using Ueberzug)
 * Parrot meme: [parrot.live](https://github.com/hugomd/parrot.live)
+* Gifs: [e.xec.sh](https://github.com/mattLLVW/e.xec.sh)
 * Emailing: [NeoMutt](https://github.com/neomutt/neomutt) _or_ [Thunderbird](https://www.thunderbird.net/en-GB/) _or_ [Mailspring](https://github.com/Foundry376/Mailspring) - _TIP_: use [mutt-wizard](https://github.com/LukeSmithxyz/mutt-wizard) to easily configure NeoMutt
 * COVID-19 stats: [Coronavirus Tracker CLI](https://github.com/sagarkarira/coronavirus-tracker-cli)
 * Calendar: [Calcurse](https://github.com/lfos/calcurse) (TUI) _or_ [Gnome Calendar](https://wiki.gnome.org/Apps/Calendar) (Gtk)
-* Google Translate: [Translate Shell](https://github.com/soimort/translate-shell) - _TIP_: you can also use Translate Shell as a dictionary if you add the '-d' flag, e.g. "trans -d stupendous"
+* Google Translate: [Translate Shell](https://github.com/soimort/translate-shell) - _TIP_: you can also use Translate Shell as a dictionary if you add the '-d' flag, e.g. `trans -d stupendous`
 * Instagram: [InstaLooter](https://github.com/althonos/InstaLooter)
 * Reddit: [redyt](https://github.com/Bugswriter/redyt) _or_ [Reddsaver](https://github.com/manojkarthick/reddsaver) _or_ [TUIR](https://gitlab.com/ajak/tuir)
 * Twitter: [Rainbow Stream](https://github.com/orakaro/rainbowstream)
@@ -22,6 +23,9 @@ NOTE: most of these tools are commandline-based because I prefer using the termi
 * [RSS](https://en.wikipedia.org/wiki/RSS): [Newsboat](https://github.com/newsboat/newsboat) (TUI) _or_ [Sfeed](https://codemadness.org/sfeed-simple-feed-parser.html) (TUI) _or_ [Neix](https://github.com/tomschwarz/neix) (TUI) _or_ [Akregator](https://userbase.kde.org/Akregator) (Qt) _or_ [Newsflash](https://gitlab.com/news-flash/news_flash_gtk) (Gtk) - _TIP_: RSS feeds are very useful if you like to read blogs or news but can also be used for YouTube channels so you don't have to have a YouTube account to subscribe to YouTubers. You can also add Reddit pages to your RSS feed.
 * Documenation: [Man pages](https://en.wikipedia.org/wiki/Man_page) _or_ run '--help' at the end of a command _or_ [cheat.sh](https://github.com/chubin/cheat.sh)  _or_ [tldr](https://github.com/tldr-pages/tldr) - _TIP_: you can [use a different manpager](https://www.youtube.com/watch?v=ab3rY0X5kD4) if you don't like less
 * Podcasts: [Castero](https://github.com/xgi/castero)
+* Office: [LibreOffice](https://www.libreoffice.org/) _or_ [sc-im](https://github.com/andmarti1424/sc-im) (for spreadsheets) _or_ [LaTeX](https://www.latex-project.org/) _or_ [Groff](https://www.gnu.org/software/groff/) _or_ [sent](https://tools.suckless.org/sent/) (for presentations)
+* QR code generator: [QRenco.de](https://github.com/chubin/qrenco.de) - _TIP_: it doesn't say it on the GitHub page but you can run `curl qrenco.de/insert-your-data-here` to generate a QR code without downloading the application
+* Pastebin: [TermBin](https://www.termbin.com/)
 
 # If you must use a web browser
 Use one or more of the following:
