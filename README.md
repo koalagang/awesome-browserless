@@ -1,6 +1,6 @@
 # Web browsers suck
-The modern web is slow and bloated. The traditional method of browsing with a graphical web browser is also clunky. It is coated in malicious trackers and adverts. There are a few ways to go about solving this:
-1. Use an alternative web protocol such as gopher or gemini - _these will likely never become mainstream_
+The modern web is slow and bloated. The traditional method of browsing (graphical web browsers) is also clunky. It is coated in malicious trackers and adverts. There are a few ways to go about solving this:
+1. Use an alternative web protocol such as Gopher or Gemini - _these will likely never become mainstream_
 2. Use a text-based browser such as lynx or w3m - _plenty of websites do not function well without JavaScript_
 3. Use superior software where possible (see below) - _can be tinkered with and designed for its specific purpose_
 
@@ -20,14 +20,14 @@ NOTE: most of these tools are commandline-based because I prefer using the termi
 * Twitter: [Rainbow Stream](https://github.com/orakaro/rainbowstream)
 * Git: [GitHub Cli](https://github.com/cli/cli) _or_ [Tig](https://github.com/jonas/tig) _or_ [GitHub-Tui](https://github.com/skanehira/github-tui) _or_ [Lazygit](https://github.com/jesseduffield/lazygit)
 * [RSS](): [Newsboat](https://github.com/newsboat/newsboat) (TUI) _or_ [Sfeed](https://codemadness.org/sfeed-simple-feed-parser.html) (TUI) _or_ [Neix](https://github.com/tomschwarz/neix) _or_ [Akregator](https://userbase.kde.org/Akregator) (Qt) _or_ [Newsflash](https://gitlab.com/news-flash/news_flash_gtk) (Gtk) - _TIP_: RSS feeds are very useful if you like to read blogs or news but can also be used for YouTube channels so you don't have to have a YouTube account to subscribe to YouTubers. You can also add Reddit pages to your RSS feed.
-* Documenation: [Man pages](https://en.wikipedia.org/wiki/Man_page) _or_ run '--help' at the end of a command _or_ - _TIP_: you can [use a different manpager](https://www.youtube.com/watch?v=ab3rY0X5kD4) if you don't like less
+* Documenation: [Man pages](https://en.wikipedia.org/wiki/Man_page) _or_ run '--help' at the end of a command _or_ [cheat.sh](https://github.com/chubin/cheat.sh)  _or_ [tldr](https://github.com/tldr-pages/tldr) - _TIP_: you can [use a different manpager](https://www.youtube.com/watch?v=ab3rY0X5kD4) if you don't like less
 
 # If you must use a browser
 Use one or more of the following:
 * [Brave](https://brave.com/) (a private Chromium-based browser)
 * [LibreWolf](https://librewolf-community.gitlab.io/) (Firefox but entirely FOSS and with better defaults)
 * [Qutebrowser](https://qutebrowser.org/) (a lightweight keyboard-driven browser)
-* [Tor Browser](https://www.torproject.org/) (the most private browser in the world; powerful for countering government censorship)
+* [Tor Browser](https://www.torproject.org/) (the most private browser in the world; powerful for countering government censorship and surveillance)
 * [Lynx](https://lynx.browser.org/) (the oldest actively maintained text-based browser)
 * [w3m](http://w3m.sourceforge.net/) (a text-based browser which supports image viewing)
 * [Amfora](https://github.com/makeworld-the-better-one/amfora) (a fancy terminal browser for the Gemini protocol)
