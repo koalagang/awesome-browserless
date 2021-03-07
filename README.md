@@ -1,6 +1,6 @@
 # Web browsers suck
 The modern web is slow and bloated. It is coated in malicious trackers and adverts. The traditional method of browsing (using graphical web browsers) is also clunky. There are a few ways to go about solving this issue:
-1. Use an alternative web protocol such as Gopher or Gemini - *these will likely never become mainstream*
+1. Use an alternative web protocol such as [Gopher](https://www.youtube.com/watch?v=-mzjYC5aWkk) or [Gemini](https://www.youtube.com/watch?v=K-en4nEV5Xc) - *these will likely never become mainstream*
 2. Use a text-based browser such as Lynx or w3m - *plenty of websites do not function well without JavaScript*
 3. Use superior software where possible (see below) - *can be tinkered with and designed for their specific purpose*
 
@@ -17,25 +17,29 @@ NOTE: most of these tools are commandline-based because I prefer using the termi
 * Calendar: [Calcurse](https://github.com/lfos/calcurse) (TUI) *or* [Gnome Calendar](https://wiki.gnome.org/Apps/Calendar) (Gtk)
 * Google Translate: [Translate Shell](https://github.com/soimort/translate-shell) - *TIP*: you can also use Translate Shell as a dictionary if you add the '-d' flag, e.g. `trans -d stupendous`
 * Instagram: [InstaLooter](https://github.com/althonos/InstaLooter)
-* Reddit: [redyt](https://github.com/Bugswriter/redyt) *or* [Reddsaver](https://github.com/manojkarthick/reddsaver) *or* [TUIR](https://gitlab.com/ajak/tuir)
+* Reddit: [redyt](https://github.com/Bugswriter/redyt) *or* [Reddsaver](https://github.com/manojkarthick/reddsaver) *or* [TUIR](https://gitlab.com/ajak/tuir) *or* [Slides]
 * Twitter: [Rainbow Stream](https://github.com/orakaro/rainbowstream)
+* Facebook: [Facebook CLI](https://github.com/specious/facebook-cli)
+* Twitch: [Twire]
 * Git: [GitHub Cli](https://github.com/cli/cli) *or* [Tig](https://github.com/jonas/tig) *or* [GitHub-Tui](https://github.com/skanehira/github-tui) *or* [Lazygit](https://github.com/jesseduffield/lazygit)
 * [RSS](https://en.wikipedia.org/wiki/RSS): [Newsboat](https://github.com/newsboat/newsboat) (TUI) *or* [Sfeed](https://codemadness.org/sfeed-simple-feed-parser.html) (TUI) *or* [Neix](https://github.com/tomschwarz/neix) (TUI) *or* [Akregator](https://userbase.kde.org/Akregator) (Qt) *or* [Newsflash](https://gitlab.com/news-flash/news*flash*gtk) (Gtk) - *TIP*: RSS feeds are very useful if you like to read blogs or news but can also be used for YouTube channels so you don't have to have a YouTube account to subscribe to YouTubers. You can also add Reddit pages to your RSS feed.
 * Documenation: [Man pages](https://en.wikipedia.org/wiki/Man_page) *or* run '--help' at the end of a command *or* [cheat.sh](https://github.com/chubin/cheat.sh)  *or* [tldr](https://github.com/tldr-pages/tldr) - *TIP*: you can [use a different manpager](https://www.youtube.com/watch?v=ab3rY0X5kD4) if you don't like less
 * Podcasts: [Castero](https://github.com/xgi/castero)
 * Office: [LibreOffice](https://www.libreoffice.org/) *or* [sc-im](https://github.com/andmarti1424/sc-im) (for spreadsheets) *or* [LaTeX](https://www.latex-project.org/) *or* [Groff](https://www.gnu.org/software/groff/) *or* [sent](https://tools.suckless.org/sent/) (for presentations)
-* QR code generator: [QRenco.de](https://github.com/chubin/qrenco.de) - *TIP*: it doesn't say it on the GitHub page but you can run `curl qrenco.de/insert-your-data-here` to generate a QR code without downloading the application
+* QR code generator: [QRenco.de](https://github.com/chubin/qrenco.de) - *TIP*: it doesn't say it explicitly on the GitHub page (it's shown in small text on an image) but you can run `curl qrenco.de/insert-your-data-here` to generate a QR code without downloading the application
 * Pastebin: [TermBin](https://www.termbin.com/)
 
 # If you must use a web browser
 Use one or more of the following:
-* [Brave](https://brave.com/) (a private Chromium-based browser)
-* [LibreWolf](https://librewolf-community.gitlab.io/) (Firefox but entirely FOSS and with better defaults)
-* [Qutebrowser](https://qutebrowser.org/) (a lightweight keyboard-driven browser)
+* [Brave](https://brave.com/) (a secure, fast & private Chromium-based web browser)
+* [LibreWolf](https://librewolf-community.gitlab.io/) (a fork of Firefox, focused on privacy, security and freedom)
+* [Qutebrowser](https://qutebrowser.org/) (a lightweight keyboard-driven browser with a minimal GUI)
 * [Tor Browser](https://www.torproject.org/) (the most private browser in the world; powerful for countering government censorship and surveillance)
+* [Bromite](https://www.bromite.org/) (a Chromium-based Android browser with ad blocking and enhanced privacy)
 * [Lynx](https://lynx.browser.org/) (the oldest actively maintained text-based browser)
 * [w3m](http://w3m.sourceforge.net/) (a text-based browser which supports image viewing)
 * [Amfora](https://github.com/makeworld-the-better-one/amfora) (a fancy terminal browser for the Gemini protocol)
+* [Castor](https://git.sr.ht/~julienxx/castor) (a graphical client for plain-text protocols written in Rust with GTK. It currently supports the Gemini, Gopher and Finger protocols.)
 
 I would also suggest that you use [Surfraw](https://gitlab.com/surfraw/Surfraw/) and then alias your preferred search engine (e.g. alias ddg='sr duckduckgo' or alias wp='sr wikipedia') to make using text-based browsers more convienient and also [block trackers using your local host file](https://www.youtube.com/watch?v=VPfpCVW7ZvM) or even do [network level blocking](https://pi-hole.net/).
 
