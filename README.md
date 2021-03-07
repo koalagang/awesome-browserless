@@ -9,7 +9,7 @@ NOTE: most of these tools are commandline-based because I prefer using the termi
 * Basic searches: [Tuxi](https://github.com/Bugswriter/tuxi)
 * Weather forecast: [wttr.in](https://github.com/chubin/wttr.in)
 * Cryptocurrency rates: [rate.sx](https://github.com/chubin/rate.sx)
-* YouTube: [youtube-dl](https://github.com/ytdl-org/youtube-dl) *or* [ytmdl](https://github.com/deepjyoti30/ytmdl) (for downloading music) *or* [youtube-viewer](https://github.com/trizen/youtube-viewer) *or* [pipe-viewer](https://github.com/trizen/pipe-viewer) *or* [straw-viewer](https://github.com/trizen/straw-viewer) (uses Invidious) *or* [FreeTube](https://github.com/FreeTubeApp/FreeTube)  *or* [NewPipe](https://github.com/TeamNewPipe/NewPipe) (Android app) *or* [yt](https://github.com/sayan01/scripts/blob/master/yt) *or* [Ytfzf](https://github.com/pystardust/ytfzf) (has thumbnail support using Ueberzug)
+* YouTube: [youtube-dl](https://github.com/ytdl-org/youtube-dl) *or* [ytmdl](https://github.com/deepjyoti30/ytmdl) (for downloading music) *or* [youtube-viewer](https://github.com/trizen/youtube-viewer) *or* [pipe-viewer](https://github.com/trizen/pipe-viewer) *or* [straw-viewer](https://github.com/trizen/straw-viewer) (uses Invidious) *or* [FreeTube](https://github.com/FreeTubeApp/FreeTube)  *or* [NewPipe](https://github.com/TeamNewPipe/NewPipe) (an Android app) *or* [yt](https://github.com/sayan01/scripts/blob/master/yt) *or* [Ytfzf](https://github.com/pystardust/ytfzf) (has thumbnail support using Ueberzug)
 * Parrot meme: [parrot.live](https://github.com/hugomd/parrot.live)
 * Gifs: [e.xec.sh](https://github.com/mattLLVW/e.xec.sh)
 * Emailing: [NeoMutt](https://github.com/neomutt/neomutt) *or* [Thunderbird](https://www.thunderbird.net/en-GB/) *or* [Mailspring](https://github.com/Foundry376/Mailspring) - *TIP*: use [mutt-wizard](https://github.com/LukeSmithxyz/mutt-wizard) to easily configure NeoMutt
@@ -17,10 +17,10 @@ NOTE: most of these tools are commandline-based because I prefer using the termi
 * Calendar: [Calcurse](https://github.com/lfos/calcurse) (TUI) *or* [Gnome Calendar](https://wiki.gnome.org/Apps/Calendar) (Gtk)
 * Google Translate: [Translate Shell](https://github.com/soimort/translate-shell) - *TIP*: you can also use Translate Shell as a dictionary if you add the '-d' flag, e.g. `trans -d stupendous`
 * Instagram: [InstaLooter](https://github.com/althonos/InstaLooter)
-* Reddit: [redyt](https://github.com/Bugswriter/redyt) *or* [Reddsaver](https://github.com/manojkarthick/reddsaver) *or* [TUIR](https://gitlab.com/ajak/tuir) *or* [Slides]
+* Reddit: [redyt](https://github.com/Bugswriter/redyt) *or* [Reddsaver](https://github.com/manojkarthick/reddsaver) *or* [TUIR](https://gitlab.com/ajak/tuir) *or* [Slide](https://github.com/ccrama/Slide) (an Android app)
 * Twitter: [Rainbow Stream](https://github.com/orakaro/rainbowstream)
 * Facebook: [Facebook CLI](https://github.com/specious/facebook-cli)
-* Twitch: [Twire]
+* Twitch: [Twire](https://f-droid.org/en/packages/com.perflyst.twire/)
 * Git: [GitHub Cli](https://github.com/cli/cli) *or* [Tig](https://github.com/jonas/tig) *or* [GitHub-Tui](https://github.com/skanehira/github-tui) *or* [Lazygit](https://github.com/jesseduffield/lazygit)
 * [RSS](https://en.wikipedia.org/wiki/RSS): [Newsboat](https://github.com/newsboat/newsboat) (TUI) *or* [Sfeed](https://codemadness.org/sfeed-simple-feed-parser.html) (TUI) *or* [Neix](https://github.com/tomschwarz/neix) (TUI) *or* [Akregator](https://userbase.kde.org/Akregator) (Qt) *or* [Newsflash](https://gitlab.com/news-flash/news*flash*gtk) (Gtk) - *TIP*: RSS feeds are very useful if you like to read blogs or news but can also be used for YouTube channels so you don't have to have a YouTube account to subscribe to YouTubers. You can also add Reddit pages to your RSS feed.
 * Documenation: [Man pages](https://en.wikipedia.org/wiki/Man_page) *or* run '--help' at the end of a command *or* [cheat.sh](https://github.com/chubin/cheat.sh)  *or* [tldr](https://github.com/tldr-pages/tldr) - *TIP*: you can [use a different manpager](https://www.youtube.com/watch?v=ab3rY0X5kD4) if you don't like less
@@ -28,6 +28,7 @@ NOTE: most of these tools are commandline-based because I prefer using the termi
 * Office: [LibreOffice](https://www.libreoffice.org/) *or* [sc-im](https://github.com/andmarti1424/sc-im) (for spreadsheets) *or* [LaTeX](https://www.latex-project.org/) *or* [Groff](https://www.gnu.org/software/groff/) *or* [sent](https://tools.suckless.org/sent/) (for presentations)
 * QR code generator: [QRenco.de](https://github.com/chubin/qrenco.de) - *TIP*: it doesn't say it explicitly on the GitHub page (it's shown in small text on an image) but you can run `curl qrenco.de/insert-your-data-here` to generate a QR code without downloading the application
 * Pastebin: [TermBin](https://www.termbin.com/)
+* Password Managers: [KeePassXC](https://github.com/keepassxreboot/keepassxc) (Gtk) *or* [pass](https://www.passwordstore.org/)
 
 # If you must use a web browser
 Use one or more of the following:
