@@ -32,7 +32,7 @@ Most of these tools are commandline-based because I prefer using the terminal bu
 * Pastebin: [TermBin](https://www.termbin.com/)
 * Password Managers: [KeePassXC](https://github.com/keepassxreboot/keepassxc) (Gtk) *or* [pass](https://www.passwordstore.org/) (CLI)
 
-**NOTE**: [Streamlink](https://github.com/streamlink/streamlink) is a CLI tool which supports *many* different streaming services (too many to list on this page) - the full list can be found [here](https://streamlink.github.io/plugin_matrix.html).
+**NOTE**: [Streamlink](https://github.com/streamlink/streamlink) is a CLI tool which supports *many* different streaming services (too many to list on this page) - the full list can be found [here](https://streamlink.github.io/plugin_matrix.html). For a simple script to make using it simpler, see [fzstream](https://github.com/koalagang/fzstream).
 
 # Installation
 There are a lot different ways of installing the above listed appliations but if you are an Arch user, I suggest you take a look on the AUR before installing the applications with the method shown on their page. Some of these applications encourage you to use alternative package managers, such as for example pip3 - this I find to be completely unnecessary, when they can be easily installed using your preferred AUR helper.
