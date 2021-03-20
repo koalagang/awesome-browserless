@@ -8,6 +8,7 @@ The modern web is slow and bloated. It is coated in malicious trackers and adver
 Most of these tools are commandline-based because I prefer using the terminal but I have included a few graphical applications as well.
 
 * Basic searches: [Tuxi](https://github.com/Bugswriter/tuxi)
+* Images: [e.xec.sh](https://github.com/mattLLVW/e.xec.sh) (if you input the curl command with `?img=true` at the end) or [gallery-dl](https://github.com/mikf/gallery-dl) *or* [gimage](https://github.com/koalagang/gimage) (my own project - a work-in-progress)
 * Weather forecast: [wttr.in](https://github.com/chubin/wttr.in)
 * Cryptocurrency rates: [rate.sx](https://github.com/chubin/rate.sx)
 * YouTube: [youtube-dl](https://github.com/ytdl-org/youtube-dl) *or* [ytmdl](https://github.com/deepjyoti30/ytmdl) (for downloading music) *or* [youtube-viewer](https://github.com/trizen/youtube-viewer) *or* [pipe-viewer](https://github.com/trizen/pipe-viewer) *or* [straw-viewer](https://github.com/trizen/straw-viewer) (uses Invidious) *or* [FreeTube](https://github.com/FreeTubeApp/FreeTube)  *or* [NewPipe](https://github.com/TeamNewPipe/NewPipe) (an Android app) *or* [yt](https://github.com/sayan01/scripts/blob/master/yt) *or* [Ytfzf](https://github.com/pystardust/ytfzf) (has thumbnail support using Ueberzug) *or* [Streamlink](https://github.com/streamlink/streamlink) (see below NOTE section)
