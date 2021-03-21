@@ -5,13 +5,13 @@ The modern web is slow and bloated. It is coated in malicious trackers and adver
 3. Use superior software where possible (see below) - *can be tinkered with and designed for their specific purpose*
 
 # Superior software
-Most of these tools are commandline-based because I prefer using the terminal but I have included a few graphical applications as well.
+Most of these tools are commandline-based because I prefer using the terminal but I have included a few graphical applications as well. Also, all of these applications are pretty easy to configure; none of them require you to deal with some complex API (not even the YouTube clients).
 
 * Basic searches: [Tuxi](https://github.com/Bugswriter/tuxi)
 * Images: [e.xec.sh](https://github.com/mattLLVW/e.xec.sh) (if you input the curl command with `?img=true` at the end) or [gallery-dl](https://github.com/mikf/gallery-dl) *or* [gimage](https://github.com/koalagang/gimage) (my own project - a work-in-progress)
 * Weather forecast: [wttr.in](https://github.com/chubin/wttr.in)
 * Cryptocurrency rates: [rate.sx](https://github.com/chubin/rate.sx) *or* [Coinmon](https://github.com/bichenkk/coinmon)
-* YouTube: [youtube-dl](https://github.com/ytdl-org/youtube-dl) *or* [ytmdl](https://github.com/deepjyoti30/ytmdl) (for downloading music) *or* [youtube-viewer](https://github.com/trizen/youtube-viewer) *or* [pipe-viewer](https://github.com/trizen/pipe-viewer) *or* [straw-viewer](https://github.com/trizen/straw-viewer) (uses Invidious) *or* [FreeTube](https://github.com/FreeTubeApp/FreeTube)  *or* [NewPipe](https://github.com/TeamNewPipe/NewPipe) (an Android app) *or* [yt](https://github.com/sayan01/scripts/blob/master/yt) *or* [Ytfzf](https://github.com/pystardust/ytfzf) (has thumbnail support using Ueberzug) *or* [Streamlink](https://github.com/streamlink/streamlink) (see below NOTE section)
+* YouTube: [youtube-dl](https://github.com/ytdl-org/youtube-dl) *or* [youtube-viewer](https://github.com/trizen/youtube-viewer) *or* [pipe-viewer](https://github.com/trizen/pipe-viewer) *or* [FreeTube](https://github.com/FreeTubeApp/FreeTube)  *or* [NewPipe](https://github.com/TeamNewPipe/NewPipe) (an Android app) *or* [yt](https://github.com/sayan01/scripts/blob/master/yt) *or* [Ytfzf](https://github.com/pystardust/ytfzf) (has thumbnail support using Ueberzug) *or* [Streamlink](https://github.com/streamlink/streamlink) (see below NOTE section) - *TIP*: when using pipe-viewer, you can use Invidious instead of YouTube by adding the `--invidious` flag.
 * Emailing: [NeoMutt](https://github.com/neomutt/neomutt) *or* [Thunderbird](https://www.thunderbird.net/en-GB/) *or* [Mailspring](https://github.com/Foundry376/Mailspring) - *TIP*: use [mutt-wizard](https://github.com/LukeSmithxyz/mutt-wizard) to easily configure NeoMutt
 * COVID-19 stats: [Coronavirus Tracker CLI](https://github.com/sagarkarira/coronavirus-tracker-cli)
 * Calendar: [Calcurse](https://github.com/lfos/calcurse) (TUI) *or* [Gnome Calendar](https://wiki.gnome.org/Apps/Calendar) (Gtk)
