@@ -5,7 +5,7 @@ The modern web is slow and bloated. It is coated in malicious trackers and adver
 3. Use superior software where possible (see below) - *can be tinkered with and designed for their specific purpose*
 
 # Superior software
-Most of these tools are commandline-based because I prefer using the terminal but I have included a few graphical applications as well. Also, all of these applications are pretty easy to configure; none of them require you to deal with some complex API (not even the YouTube clients).
+Most of these tools are commandline-based because I prefer using the terminal but I have included a few graphical applications as well. Also, all of these applications are pretty easy to configure; none of them require you to deal with some complex API (not even the YouTube clients, except for youtube-viewer).
 
 * Basic searches: [Tuxi](https://github.com/Bugswriter/tuxi)
 * Images: [e.xec.sh](https://github.com/mattLLVW/e.xec.sh) (if you input the curl command with `?img=true` at the end) or [gallery-dl](https://github.com/mikf/gallery-dl) *or* [gimage](https://github.com/koalagang/gimage) (my own project - a work-in-progress)
