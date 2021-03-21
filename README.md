@@ -1,4 +1,4 @@
-# Web browsers suck
+Web browsers suck
 The modern web is slow and bloated. It is coated in malicious trackers and adverts. The traditional method of browsing (using graphical web browsers) is also clunky. There are a few ways to go about solving this issue:
 1. Use an alternative web protocol such as [Gopher](https://www.youtube.com/watch?v=-mzjYC5aWkk) or [Gemini](https://www.youtube.com/watch?v=K-en4nEV5Xc) - *these will likely never become mainstream*
 2. Use a text-based browser such as Lynx or w3m - *plenty of websites do not function well without JavaScript*
@@ -39,7 +39,7 @@ Most of these tools are commandline-based because I prefer using the terminal bu
 **NOTE**: [Streamlink](https://github.com/streamlink/streamlink) is a CLI tool which supports *many* different streaming services (too many to list on this page) - the full list can be found [here](https://streamlink.github.io/plugin_matrix.html). For a simple script to make using it simpler, see [fzstream](https://github.com/koalagang/fzstream).
 
 # Installation
-***Everyone*** should be using a package manager. For the Linux and BSD people, what package manager you should be using obviously depends on your distro. Experienced macOS users will know of [homebrew](https://brew.sh/) (which is also available for Linux, btw). Windows users should consider using [scoop](https://scoop.sh/) *or* [choclatey](https://chocolatey.org/).
+***Everyone*** should be using a package manager. For the Linux and BSD people, what package manager you should be using obviously depends on your distro. Experienced macOS users will know of [homebrew](https://brew.sh/) (which is also available for Linux, btw). Windows users should consider using [scoop](https://scoop.sh/) *or* [chocolatey](https://chocolatey.org/).
 
 Many of the software in the list of 'superior software' usually instruct you to use a language specific package manager, such as npm or pip3. Fortunately for Arch/Arch-based users, plenty of these software are also available on the AUR; I recommend you download it from there if this is the case. People who are not using Arch will, however, probably have to download the specific package manager or compile from source.
 
