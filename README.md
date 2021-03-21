@@ -1,8 +1,10 @@
 Web browsers suck
-The modern web is slow and bloated. It is coated in malicious trackers and adverts. The traditional method of browsing (using graphical web browsers) is also clunky. There are a few ways to go about solving this issue:
-1. Use an alternative web protocol such as [Gopher](https://www.youtube.com/watch?v=-mzjYC5aWkk) or [Gemini](https://www.youtube.com/watch?v=K-en4nEV5Xc) - *these will likely never become mainstream*
+The modern web is slow and bloated. It is coated in malicious trackers and adverts. The traditional method of browsing (using graphical web browsers) is also clunky. Moreover, algorithms, clickbait and censorship are used to further manipulate us. There are a few ways to go about solving this issue:
+1. Use an alternative web protocol such as [Gopher](https://www.youtube.com/watch?v=-mzjYC5aWkk) or [Gemini](https://www.youtube.com/watch?v=K-en4nEV5Xc) - *although seemingly promising, these will likely never become mainstream*
 2. Use a text-based browser such as Lynx or w3m - *plenty of websites do not function well without JavaScript*
 3. Use superior software where possible (see below) - *can be tinkered with and designed for their specific purpose*
+
+Also, I'd like to apologise for the overuse of the word *'bloat'*. It is used a lot but only for the lack of a better word.
 
 # Superior software
 Most of these tools are commandline-based because I prefer using the terminal but I have included a few graphical applications as well. Also, all of these applications are pretty easy to configure; none of them require you to deal with some complex API (not even the YouTube clients, except for youtube-viewer).
@@ -11,7 +13,7 @@ Most of these tools are commandline-based because I prefer using the terminal bu
 * Images: [e.xec.sh](https://github.com/mattLLVW/e.xec.sh) (if you input the curl command with `?img=true` at the end) or [gallery-dl](https://github.com/mikf/gallery-dl) *or* [gimage](https://github.com/koalagang/gimage) (my own project - a work-in-progress)
 * Weather forecast: [wttr.in](https://github.com/chubin/wttr.in)
 * Cryptocurrency rates: [rate.sx](https://github.com/chubin/rate.sx) *or* [Coinmon](https://github.com/bichenkk/coinmon)
-* YouTube: [youtube-dl](https://github.com/ytdl-org/youtube-dl) *or* [youtube-viewer](https://github.com/trizen/youtube-viewer) *or* [pipe-viewer](https://github.com/trizen/pipe-viewer) *or* [FreeTube](https://github.com/FreeTubeApp/FreeTube)  *or* [NewPipe](https://github.com/TeamNewPipe/NewPipe) (an Android app) *or* [yt](https://github.com/sayan01/scripts/blob/master/yt) *or* [Ytfzf](https://github.com/pystardust/ytfzf) (has thumbnail support using Ueberzug) *or* [Streamlink](https://github.com/streamlink/streamlink) (see below NOTE section) - *TIP*: when using pipe-viewer, you can use Invidious instead of YouTube by adding the `--invidious` flag.
+* YouTube: [youtube-dl](https://github.com/ytdl-org/youtube-dl) *or* [youtube-viewer](https://github.com/trizen/youtube-viewer) *or* [pipe-viewer](https://github.com/trizen/pipe-viewer) *or* [FreeTube](https://github.com/FreeTubeApp/FreeTube)  *or* [NewPipe](https://github.com/TeamNewPipe/NewPipe) (an Android app) *or* [yt](https://github.com/sayan01/scripts/blob/master/yt) *or* [Ytfzf](https://github.com/pystardust/ytfzf) (has thumbnail support using Ueberzug) *or* [Streamlink](https://github.com/streamlink/streamlink) (see below NOTE section) - *TIP*: when using pipe-viewer, you can use Invidious instead of YouTube by parsing the `--invidious` flag. *Another TIP*: when using Ytfzf, if you want to use the J and K keys (vim keys) instead of the up and down keys, simply hold down ctrl while using J and K
 * Emailing: [NeoMutt](https://github.com/neomutt/neomutt) *or* [Thunderbird](https://www.thunderbird.net/en-GB/) *or* [Mailspring](https://github.com/Foundry376/Mailspring) - *TIP*: use [mutt-wizard](https://github.com/LukeSmithxyz/mutt-wizard) to easily configure NeoMutt
 * COVID-19 stats: [Coronavirus Tracker CLI](https://github.com/sagarkarira/coronavirus-tracker-cli)
 * Calendar: [Calcurse](https://github.com/lfos/calcurse) (TUI) *or* [Gnome Calendar](https://wiki.gnome.org/Apps/Calendar) (Gtk)
@@ -44,7 +46,7 @@ Most of these tools are commandline-based because I prefer using the terminal bu
 Many of the software in the list of 'superior software' usually instruct you to use a language specific package manager, such as npm or pip3. Fortunately for Arch/Arch-based users, plenty of these software are also available on the AUR; I recommend you download it from there if this is the case. People who are not using Arch will, however, probably have to download the specific package manager or compile from source.
 
 # If you must use a web browser
-Use one or more of the following:
+Use one or more of the following browsers:
 * [Brave](https://brave.com/) (a secure, fast & private Chromium-based web browser)
 * [LibreWolf](https://librewolf-community.gitlab.io/) (a fork of Firefox, focused on privacy, security and freedom)
 * [Qutebrowser](https://qutebrowser.org/) (a lightweight keyboard-driven browser with a minimal GUI)
@@ -55,7 +57,22 @@ Use one or more of the following:
 * [Amfora](https://github.com/makeworld-the-better-one/amfora) (a fancy terminal browser for the Gemini protocol)
 * [Castor](https://git.sr.ht/~julienxx/castor) (a graphical client for plain-text protocols written in Rust with GTK. It currently supports the Gemini, Gopher and Finger protocols.)
 
-I would also suggest that you use [Surfraw](https://gitlab.com/surfraw/Surfraw/) and then alias your preferred search engine (e.g. alias ddg='sr duckduckgo' or alias wp='sr wikipedia') to make using text-based browsers more convienient and also [block trackers using your local host file](https://www.youtube.com/watch?v=VPfpCVW7ZvM) or even do [network level blocking](https://pi-hole.net/).
+If you are using a PC/laptop Chromium or Firefox-based browser, use one or more of following extensions:
+* [uBlock Origin](https://github.com/gorhill/uBlock#ublock-origin) *or* Privacy Badger (not needed if you are on Brave)
+* [Cookies AutoDelete](https://github.com/Cookie-AutoDelete/Cookie-AutoDelete)
+* [Decentraleyes](https://decentraleyes.org/)
+* [HTTPS Everywhere](https://www.eff.org/https-everywhere) (NOTE: Firefox and Brave have this as a built-in feature)
+* [NoScript](https://noscript.net/) *or* [uMatrix](https://github.com/gorhill/uMatrix) - *TIP*: NoScript's website is hard to navigate; click [here](https://addons.mozilla.org/en-US/firefox/addon/noscript/) for the Firefox version and [here](https://chrome.google.com/webstore/detail/noscript/doojmbjmlfjjnbmnoijecmcbfeoakpjm) for the Chromium version.
+* [ClearURLS] (NOTE: Firefox has this as a built-in feature)
+* [Minimal](https://gitlab.com/aupya/minimal)
+* [Terms of Service; Didn't Read](https://tosdr.org/) (aka ToS;DR)
+
+Some of these browser extensions block trackers but [blocking trackers using your local host file](https://www.youtube.com/watch?v=VPfpCVW7ZvM) or even [network level blocking](https://pi-hole.net/) is better than browser-level blocking because it allows you to block tracking even on unorthodox platforms such as mobile apps or smart TVs. It also means that your adblocking is browser-agnostic; you are not forced to use Chromium or Firefox for any level of privacy. It also ensures that you don't have to cram your already bloated browser with more bloat. If you wish to use a hardened Firefox - check out [ghacks user.js](https://github.com/arkenfox/user.js) (remember to read the readme carefully; use it as a template and do not apply it to Tor Browser). Also, if you choose to go the browser extensions route: try not to plaster on too many extensions because it will only make your fingerprint more unique.
+
+If you want up-to-date advice about online privacy - see [PrivacyTools](https://privacytools.io/).
+To see how unique your browsing fingerprint is and how well you block trackers - see EFF's [CoverYourTracks](https://coveryourtracks.eff.org/).
+
+I would also suggest that you use [Surfraw](https://gitlab.com/surfraw/Surfraw/) and then alias your preferred search engine (e.g. alias ddg='sr duckduckgo' or alias wp='sr wikipedia') to make using text-based browsers more convienient.
 
 # Community-based?
 Currently I am the only one working on this list but feel free to make a pull request if you think there is something else which belongs on the list.
