@@ -1,5 +1,5 @@
 Web browsers suck
-The modern web is slow and bloated. It is coated in malicious trackers and adverts. The traditional method of browsing (using graphical web browsers) is also clunky. Moreover, algorithms, clickbait and censorship are used to further manipulate us. There are a few ways to go about solving this issue:
+The modern web is slow and bloated. It is coated in malicious trackers and adverts. The traditional method of browsing (using graphical web browsers) is also clunky. Moreover, algorithms, clickbait and biased/unfactual news are used to further manipulate us. There are a few ways to go about solving this issue:
 1. Use an alternative web protocol such as [Gopher](https://www.youtube.com/watch?v=-mzjYC5aWkk) or [Gemini](https://www.youtube.com/watch?v=K-en4nEV5Xc) - *although seemingly promising, these will likely never become mainstream*
 2. Use a text-based browser such as Lynx or w3m - *plenty of websites do not function well without JavaScript*
 3. Use superior software where possible (see below) - *can be tinkered with and designed for their specific purpose*
@@ -41,7 +41,7 @@ Most of these tools are commandline-based because I prefer using the terminal bu
 **NOTE**: [Streamlink](https://github.com/streamlink/streamlink) is a CLI tool which supports *many* different streaming services (too many to list on this page) - the full list can be found [here](https://streamlink.github.io/plugin_matrix.html). For a simple script to make using it simpler, see [fzstream](https://github.com/koalagang/fzstream).
 
 # Installation
-***Everyone*** should be using a package manager. For the Linux and BSD people, what package manager you should be using obviously depends on your distro. Experienced macOS users will know of [homebrew](https://brew.sh/) (which is also available for Linux, btw). Windows users should consider using [Scoop](https://scoop.sh/) *or* [Chocolatey](https://chocolatey.org/).
+***Everyone*** should be using a package manager. For the Linux and BSD people, what package manager you should be using obviously depends on your distro. Experienced macOS users will know of [Homebrew](https://brew.sh/) (which is also available for Linux, btw). Windows users should consider using [Scoop](https://scoop.sh/) *or* [Chocolatey](https://chocolatey.org/).
 
 Many of the software in the list of 'superior software' usually instruct you to use a language specific package manager, such as npm or pip3. Fortunately for Arch/Arch-based users, plenty of these software are also available on the AUR; I recommend you download it from there if this is the case. People who are not using Arch will, however, probably have to download the specific package manager or compile from source.
 
@@ -71,8 +71,15 @@ Some of these browser extensions block trackers but [blocking trackers using you
 
 If you want up-to-date advice about online privacy - see [PrivacyTools](https://privacytools.io/).
 To see how unique your browsing fingerprint is and how well you block trackers - see EFF's [CoverYourTracks](https://coveryourtracks.eff.org/).
+For help with making Qutebrowser more private - see [my config.py](https://github.com/koalagang/dotfiles/blob/main/qutebrowser/config.py).
 
 I would also suggest that you use [Surfraw](https://gitlab.com/surfraw/Surfraw/) and then alias your preferred search engine (e.g. alias ddg='sr duckduckgo' or alias wp='sr wikipedia') to make using text-based browsers more convienient.
+
+# Is the modern web inherently bad?
+
+Yes and no. Compared to how hard it was to gain access to information a few decades ago, the web has helped us to make many advances in developing society. It also distributes help and communication for huge amounts of people. Furthermore, it is the easiest way to find entertainment for free (in terms of money cost that is). The problem is that in the current circumstance, just by opening your web browser and loading up a page like YouTube, you are being violated. Not only are cookies which follow you around planted into your browser but YouTube uses dirty tactics to keep you on the website and continuing to earn them money; this would include the use of warm colours, big buttons, infinite scrolling pages, targeted videos, etc. Fortunately, there are people generous enough to give up their time to develope software such as those in the list. It is, however, also possible to make a well designed website.
+
+**But how do you make a** ***good*** **website?** Here are two great examples on how a website should be designed - [Based Cooking](https://based.cooking/) and [wolfgang's blog](https://notthebe.ee/). [Here](https://www.youtube.com/watch?v=ykNEkiYr0QM) and [here](https://www.youtube.com/watch?v=N_ttw2Dihn8) are videos covering them respectively. I am of the opinion that a good website should function well in a text-based browser and these two work very nicely (at least in Lynx). That is not to say that videos and pictures are wrong to include (in fact these websites do include videos and pictures) but the point is that there shouldn't be a signficiant inconvenience in not using a graphical browser - this would mean that it should be functioning without JavaScript.
 
 # Community-based?
 Currently I am the only one working on this list but feel free to make a pull request if you think there is something else which belongs on the list.
