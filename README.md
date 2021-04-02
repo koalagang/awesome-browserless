@@ -86,5 +86,15 @@ Yes and no. Compared to how hard it was to gain access to information a few deca
 
 **But how do you make a** ***good*** **website?** Here are two great examples on how a website should be designed - [Based Cooking](https://based.cooking/) and [wolfgang's blog](https://notthebe.ee/). [Here](https://www.youtube.com/watch?v=ykNEkiYr0QM) and [here](https://www.youtube.com/watch?v=N_ttw2Dihn8) are videos covering them respectively. I am of the opinion that a good website should function well in a text-based browser and these two work very nicely (at least in Lynx). That is not to say that videos and pictures are wrong to include (in fact these websites do include videos and pictures) but the point is that there shouldn't be a signficiant inconvenience in not using a graphical browser - this would mean that it should be functioning without JavaScript.
 
+There also a lot of great websites which are part of what is known as the [fediverse](https://en.wikipedia.org/wiki/Fediverse). These are decentralised systems which empower users and allow people to create their own rules instead of having to adhere to the rules of giants like YouTube and Facebook. Here is a list of some great federated services:
+* [PeerTube](https://peer.tube/)
+* [LBRY](https://lbry.com/) / [Oddysee](https://odysee.com/)
+* [Mastodon](https://joinmastodon.org/)
+* [Matrix](https://matrix.org/)
+* [Nextcloud](https://nextcloud.com/federation/) (partly federated)
+* [Friendica](https://github.com/friendica/friendica)
+* [Diaspora](https://diasporafoundation.org/)
+* [Briar](https://briarproject.org/) (not really part of the fediverse but it uses peer-to-peer networks)
+
 # Community-based?
 Currently I am the only one working on this list but feel free to make a pull request if you think there is something else which belongs on the list.
