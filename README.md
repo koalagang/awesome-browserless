@@ -69,7 +69,7 @@ If you are using a PC/laptop Chromium or Firefox-based browser, use one or more 
 * [Decentraleyes](https://decentraleyes.org/)
 * [HTTPS Everywhere](https://www.eff.org/https-everywhere) (NOTE: Firefox and Brave have this as a built-in feature)
 * [NoScript](https://noscript.net/) *or* [uMatrix](https://github.com/gorhill/uMatrix) - *TIP*: NoScript's website is hard to navigate; click [here](https://addons.mozilla.org/en-US/firefox/addon/noscript/) for the Firefox version and [here](https://chrome.google.com/webstore/detail/noscript/doojmbjmlfjjnbmnoijecmcbfeoakpjm) for the Chromium version.
-* [ClearURLS] (NOTE: Firefox has this as a built-in feature)
+* [ClearURLS](https://github.com/ClearURLs/Addon) (NOTE: Firefox has this as a built-in feature)
 * [Minimal](https://gitlab.com/aupya/minimal)
 * [Terms of Service; Didn't Read](https://tosdr.org/) (aka ToS;DR)
 
