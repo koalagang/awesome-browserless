@@ -61,6 +61,7 @@ Use one or more of the following browsers:
 * [w3m](http://w3m.sourceforge.net/) (a text-based browser which supports image viewing)
 * [Amfora](https://github.com/makeworld-the-better-one/amfora) (a fancy terminal browser for the Gemini protocol)
 * [Castor](https://git.sr.ht/~julienxx/castor) (a graphical client for plain-text protocols written in Rust with GTK. It currently supports the Gemini, Gopher and Finger protocols.)
+* [Min](https://minbrowser.org/) (a browser without distractions)
 
 If you are using a PC/laptop Chromium or Firefox-based browser, use one or more of following extensions:
 * [uBlock Origin](https://github.com/gorhill/uBlock#ublock-origin) *or* Privacy Badger (not needed if you are on Brave)
