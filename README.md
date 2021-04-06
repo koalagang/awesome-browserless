@@ -41,7 +41,7 @@ Most of these tools are commandline-based because I prefer using the terminal bu
 * URL shortener: [Null Pointer](http://0x0.st/)
 * News: use an RSS feed (see above) *or* [getnews.tech](https://github.com/omgimanerd/getnews.tech)
 * Business card: [Bryan Jenks' business card](https://github.com/tallguyjenks/BusinessCard) (this is obviously just Bryan Jenks' business card but you could easily fork it to make your own)
-* PDF viewer (why do people even use their browser as a PDF viewer?): [Zathura](https://git.pwmt.org/pwmt/zathura)
+* PDF viewer (why do people even use their browser as a PDF viewer?): [Zathura](https://git.pwmt.org/pwmt/zathura) *or* [MuPDF](https://mupdf.com/) - *TIP*: to view PDFs, Zathura requires that you install one of two mutually exclusive plugins - `zathura-pdf-poppler` or `zathura-pdf-mupdf` - I suggest you choose zathura-pdf-mupdf because it allows you to view PDF presentations in addition to standard PDFs
 
 **NOTE**: [Streamlink](https://github.com/streamlink/streamlink) is a CLI tool which supports *many* different streaming services (too many to list on this page) - the full list can be found [here](https://streamlink.github.io/plugin_matrix.html). For a simple script to make using it simpler, see [fzstream](https://github.com/koalagang/fzstream).
 
