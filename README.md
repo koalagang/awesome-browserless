@@ -1,4 +1,4 @@
-Web browsers suck
+# Web browsers suck
 The modern web is slow and bloated. It is coated in malicious trackers and adverts. The traditional method of browsing (using graphical web browsers) is also clunky. Moreover, algorithms, clickbait and biased/unfactual news are used to further manipulate us. There are a few ways to go about solving this issue:
 1. Use an alternative web protocol such as [Gopher](https://www.youtube.com/watch?v=-mzjYC5aWkk) or [Gemini](https://www.youtube.com/watch?v=K-en4nEV5Xc) - *although seemingly promising, these will likely never become mainstream*
 2. Use a text-based browser such as Lynx or w3m - *plenty of websites do not function well without JavaScript*
