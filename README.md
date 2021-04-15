@@ -4,26 +4,28 @@ The modern web is slow and bloated. It is coated in malicious trackers and adver
 2. Use a text-based browser such as Lynx or w3m - *plenty of websites do not function well without JavaScript*
 3. Use superior software where possible (see below) - *can be tinkered with and designed for their specific purpose*
 
-Also, I'd like to apologise for the overuse of the word *'bloat'*. It is used a lot but only for the lack of a better word.
+*NOTE:* I'm thinking of restructuring this list because, right now, it's a bit of a mess and it's hard to read.
 
 # Superior software
 Most of these tools are commandline-based because I prefer using the terminal but I have included a few graphical applications as well. Also, all of these applications are pretty easy to configure; none of them require you to deal with some complex API (not even the YouTube clients, except for youtube-viewer).
 
 * Basic searches: [Tuxi](https://github.com/Bugswriter/tuxi)
+* Advanced searches: [Surfraw](https://gitlab.com/surfraw/Surfraw) *or* [googler](https://github.com/jarun/googler) *or* [ddgr](https://github.com/jarun/ddgr) - *NOTE:* these all open a web browser but they allow you to search via the commandline; this can be very useful for scripts (e.g. dmenu scripts)
 * Images: [e.xec.sh](https://github.com/mattLLVW/e.xec.sh) (if you input the curl command with `?img=true` at the end) or [gallery-dl](https://github.com/mikf/gallery-dl) *or* [gimage](https://github.com/koalagang/gimage) (my own project - a work-in-progress)
 * Weather forecast: [wttr.in](https://github.com/chubin/wttr.in)
 * Cryptocurrency rates: [rate.sx](https://github.com/chubin/rate.sx) *or* [Coinmon](https://github.com/bichenkk/coinmon) *or* [Cointop](https://github.com/miguelmota/cointop)
 * YouTube: [youtube-dl](https://github.com/ytdl-org/youtube-dl) *or* [youtube-viewer](https://github.com/trizen/youtube-viewer) *or* [pipe-viewer](https://github.com/trizen/pipe-viewer) *or* [FreeTube](https://github.com/FreeTubeApp/FreeTube)  *or* [NewPipe](https://github.com/TeamNewPipe/NewPipe) (an Android app) *or* [yt](https://github.com/sayan01/scripts/blob/master/yt) *or* [Ytfzf](https://github.com/pystardust/ytfzf) (has thumbnail support using Ueberzug) *or* [Streamlink](https://github.com/streamlink/streamlink) (see below NOTE section) *or* [MusicPiped](https://github.com/deep-gaurav/MusicPiped) - *TIP*: when using pipe-viewer, you can use [Invidious](https://github.com/iv-org/invidious) instead of YouTube by parsing the `--invidious` flag. You can also use FreeTube with Invidious. *Another TIP*: when using Ytfzf, if you want to use the J and K keys (vim keys) instead of the up and down keys, simply hold down ctrl while using J and K
 * Emailing: [NeoMutt](https://github.com/neomutt/neomutt) *or* [Thunderbird](https://www.thunderbird.net/en-GB/) *or* [Mailspring](https://github.com/Foundry376/Mailspring) - *TIP*: use [mutt-wizard](https://github.com/LukeSmithxyz/mutt-wizard) to easily configure NeoMutt
-* COVID-19 stats: [Coronavirus Tracker CLI](https://github.com/sagarkarira/coronavirus-tracker-cli)
+* COVID-19 stats: [Coronavirus Tracker CLI](https://github.com/sagarkarira/coronavirus-tracker-cli) *or* [covid19-cli](https://github.com/garrylachman/covid19-cli)
 * Calendar/Scheduler: [Calcurse](https://github.com/lfos/calcurse) (TUI) *or* [Gnome Calendar](https://wiki.gnome.org/Apps/Calendar) (Gtk) *or* [Tibivi](https://github.com/oltarzewskik/tibivi) (TUI) *or* [Remind](https://dianne.skoll.ca/projects/remind/) (CLI) [Vim Wiki](https://github.com/vimwiki/vimwiki) (Diary) - *TIP*: [here](https://www.youtube.com/watch?v=4FdMrS4biVE) is a great video covering Remind. *Another TIP*: [here](https://www.youtube.com/watch?v=FsX3SpHiuYw) is a great video covering Vim Wiki Diary.
 * Google Translate: [Translate Shell](https://github.com/soimort/translate-shell) *or* [Tuxi](https://github.com/Bugswriter/tuxi) - *TIP*: you can also use Translate Shell as a dictionary if you add the '-d' flag, e.g. `trans -d stupendous`
-* Finding emojis: [emoj](https://github.com/sindresorhus/emoj) *or* [DmenuUnicode](https://github.com/LukeSmithxyz/voidrice/blob/master/.local/bin/dmenuunicode) - *TIP*: emoj uses nodejs but DmenuUnicode is just a simple (18 lines, 9 if you exclude comments and empty lines) shell script so it would probably be preferred
+* Finding emojis: [rofi-emoji](https://github.com/Mange/rofi-emoji) *or* [DmenuUnicode](https://github.com/LukeSmithxyz/voidrice/blob/master/.local/bin/dmenuunicode) *or* [fzf-nova emoji](https://github.com/gotbletu/shownotes/blob/master/fzf_nova/_emoji)
 * Memes: [parrot.live](https://github.com/hugomd/parrot.live) *or* [e.xec.sh](https://github.com/mattLLVW/e.xec.sh) *or* [dankcli](https://github.com/sggts04/dankcli) *or* [Ricksay]() *or* Reddit *(see below)*
 * Reddit: [redyt](https://github.com/Bugswriter/redyt) *or* [Reddsaver](https://github.com/manojkarthick/reddsaver) *or* [TUIR](https://gitlab.com/ajak/tuir) *or* [Slide](https://github.com/ccrama/Slide) (an Android app)
 * Twitter: [Rainbow Stream](https://github.com/orakaro/rainbowstream)
 * Facebook: [Facebook CLI](https://github.com/specious/facebook-cli)
 * Instagram: [InstaLooter](https://github.com/althonos/InstaLooter)
+* Mastodon: [Tut](https://github.com/RasmusLindroth/tut)
 * Finding people on social media: [Sherlock](https://github.com/sherlock-project/sherlock)
 * Twitch: [Twire](https://f-droid.org/en/packages/com.perflyst.twire/) (an Android app) *or* [Streamlink](https://github.com/streamlink/streamlink) (see below NOTE section)
 * Git: [GitHub Cli](https://github.com/cli/cli) *or* [Tig](https://github.com/jonas/tig) *or* [GitHub-Tui](https://github.com/skanehira/github-tui) *or* [Lazygit](https://github.com/jesseduffield/lazygit) *or* [Lab](https://github.com/zaquestion/lab) *or* [Hub](https://github.com/github/hub)
