@@ -42,7 +42,7 @@ Most of these tools are commandline-based because I prefer using the terminal bu
 * Pastebin: [TermBin](https://www.termbin.com/)
 * Password Managers: [KeePassXC](https://github.com/keepassxreboot/keepassxc) (Gtk) *or* [pass](https://www.passwordstore.org/) (CLI) *or* [Bitwarden-CLI](https://github.com/bitwarden/cli)
 * Manga/Webtoons: [gallery-dl](https://github.com/mikf/gallery-dl)
-* Anime: [ani-cli](https://github.com/pystardust/ani-cli) (for watching) *and* [Trackma](https://github.com/z411/trackma) (for tracking)
+* Anime: [ani-cli](https://github.com/pystardust/ani-cli) *or* [crunchyroll-cli](https://github.com/koalagang/crunchyroll-cli) (for watching) *and* [Trackma](https://github.com/z411/trackma) (for tracking)
 * Flash cards: [Anki](https://apps.ankiweb.net/) *or* [fla.sh](https://github.com/tallguyjenks/fla.sh) *or* [Vocage](https://github.com/proycon/vocage)
 * Dictionary: [Translate Shell](https://github.com/soimort/translate-shell) (if you use the `-d` flag) *or* [dictd](https://github.com/mkuhn/dict) (aka 'dict') - *TIP*: as the usage of dictd is not entirely intuitive, you may wish to consult the [Arch Wiki](https://wiki.archlinux.org/index.php/Dictd) or [this](https://www.youtube.com/watch?v=DvACLz06W2o) video for documentation. *Another TIP*: **dict can be used with curl** instead of downloading it if you input `curl dict://dict.org/d:insert-your-query-here`
 * URL shortener: [Null Pointer](http://0x0.st/)
