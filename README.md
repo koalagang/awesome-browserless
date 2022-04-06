@@ -77,7 +77,7 @@ Resources
 - [Mailspring](https://github.com/Foundry376/Mailspring) - 💌 A beautiful, fast and fully open source mail client for Mac, Windows and Linux.
 
 ## Calendar and scheduling
-- [Calcurse](https://github.com/lfos/calcurse - A text-based calendar and scheduling application
+- [Calcurse](https://github.com/lfos/calcurse) - A text-based calendar and scheduling application
 - [GNOME Calendar](https://wiki.gnome.org/Apps/Calendar) - Calendar application for GNOME
 - [Tibivi](https://github.com/oltarzewskik/tibivi) - Terminal based, vim-like time managment tool
 - [Remind](https://dianne.skoll.ca/projects/remind/) - a sophisticated calendar and alarm program
