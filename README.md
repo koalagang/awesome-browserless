@@ -1,4 +1,4 @@
-# Awesome Browserless
+# Awesome Browserless [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A curated list of awesome alternatives to apps tradtionally used in the web browser.
 
 ## Table of contents
@@ -159,7 +159,7 @@ Resources
 - [wikicurses](https://github.com/ids1024/wikicurses) - A simple curses interface for MediaWiki sites such as Wikipedia.
 
 ## Radio and podcasts
-- [Castero](https://github.com/xgi/castero -  TUI podcast client
+- [Castero](https://github.com/xgi/castero) -  TUI podcast client
 - [ncspot](https://github.com/hrkfdn/ncspot) - Cross-platform ncurses Spotify client written in Rust, inspired by ncmpc and the likes.
 - [curseradio](https://github.com/chronitis/curseradio) - Command line radio player
 - [Shortwave](https://gitlab.gnome.org/World/Shortwave) - Listen to internet radio
