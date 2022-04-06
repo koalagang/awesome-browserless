@@ -50,7 +50,7 @@ A curated list of awesome alternatives to apps tradtionally used in the web brow
 - [gallery-dl](https://github.com/mikf/gallery-dl) - Command-line program to download image galleries and collections from several image hosting sites
 - [styli.sh](https://github.com/thevinter/styli.sh) - A CLI tool for easy wallpaper management and image fetching
 Resources
-- [waldl](https://github.com/pystardust/waldl) - Browse and download wallhaven.cc using sxiv
+- [waldl](https://github.com/pystardust/waldl) - Browse and download wallhaven.cc wallpapers using sxiv
 - [Quickwall](https://github.com/deepjyoti30/quickwall) - Set latest wallpapers from Unsplash from the commandline
 
 ## Weather forecast
@@ -58,7 +58,7 @@ Resources
 
 ## View cryptocurrency exchange rates
 - [rate.sx](https://github.com/chubin/rate.sx) - 💰 curl cryptocurrencies exchange rates
-- [Coinmon](https://github.com/bichenkk/coinmon) - 💰 The cryptocurrency price tool on CLI. desktop_computer 🖥️
+- [Coinmon](https://github.com/bichenkk/coinmon) - 💰 The cryptocurrency price tool on CLI. 🖥️
 - [Cointop](https://github.com/miguelmota/cointop) - A fast and lightweight interactive terminal based UI application for tracking cryptocurrencies 🚀
 
 ## YouTube
@@ -182,7 +182,7 @@ Resources
 ## Anime
 - [ani-cli](https://github.com/pystardust/ani-cli) - A cli tool to browse and play anime
 - [crunchyroll-cli](https://github.com/koalagang/crunchyroll-cli) - A CLI tool for browsing and playing anime from Crunchyroll.
-- [Trackma](https://github.com/z411/trackma) - Open multi-site list manager for Unix-like systems. (ex-wMAL)
+- [Trackma](https://github.com/z411/trackma) - Open multi-site list manager for Unix-like systems.
 
 ## Flash cards
 - [Anki](https://apps.ankiweb.net) - Powerful, intelligent flash cards. Remembering things just became much easier.
@@ -200,7 +200,7 @@ Resources
 ## BONUS
 - [parrot.live](https://github.com/hugomd/parrot.live) - 🐦 Bringing animated parrots to terminals everywhere
 - [Ricksay](https://github.com/bavllymagid/ricksay) - Rick & Morty quotes of the day with ponies included!
-- [Ferdi](https://getferdi.com) - a free and opensource all-in-one desktop app that helps you organize how you use your favourite apps
+- [Ferdi](https://getferdi.com) - a free and open-source all-in-one desktop app that helps you organize how you use your favourite apps
 - [Rambox](https://rambox.app) - Workspace simplifier
 - [QRenco.de](https://github.com/chubin/qrenco.de) - QRenco.de a string using curl
 - [TermBin](https://www.termbin.com) - Netcat-based command line pastebin.
